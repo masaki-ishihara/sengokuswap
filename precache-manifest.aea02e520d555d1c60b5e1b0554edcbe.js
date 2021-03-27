@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0eba4197a76ea271972bd9eba324b17c",
+    "revision": "a888a0bf3e0ad90f81244c7eb5ceb8a0",
     "url": "/sengokuswap/index.html"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sengokuswap/static/js/9.7e7d44d7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c357f38b013ba4b4aa5b",
-    "url": "/sengokuswap/static/js/main.9e8da62c.chunk.js"
+    "revision": "ca9228092477dd3ad68e",
+    "url": "/sengokuswap/static/js/main.cba76063.chunk.js"
   },
   {
     "revision": "b523b5402b6bfc4e02ed",
